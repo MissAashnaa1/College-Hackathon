@@ -1,0 +1,37 @@
+[
+    {
+        "name": "aashnaa",
+        "email": "missaashnaa1@gmail.com",
+        "password": "aaaaaaaa",
+        "verified": true,
+        "token": 1680870600063
+    },
+    {
+        "name": "1",
+        "email": "1@gmail.com",
+        "password": "1",
+        "verified": true,
+        "token": 1680870600063
+    },
+    {
+        "name": "aashnaa",
+        "email": "a@a",
+        "password": "asa",
+        "verified": false,
+        "token": 1680871917058
+    },
+    {
+        "name": "aswa",
+        "email": "wqe@2",
+        "password": "wqeq",
+        "verified": false,
+        "token": 1680872070812
+    },
+    {
+        "name": "23",
+        "email": "missaashnaa7@gmail.com",
+        "password": "2311",
+        "verified": false,
+        "token": 1680872121022
+    }
+]
